@@ -1,6 +1,5 @@
-![header](https://capsule-render.vercel.app/api?type=Waving&color=4e63d6&height=220&section=header&text=CHDROOM&fontSize=80&animation=fadeIn&fontColor=daa520)
-
-### 제목
+![header](https://capsule-render.vercel.app/api?type=venom&color=F6E29a&text=chdroom)
+## 최세민
 
 > 한칸 블럭
 
